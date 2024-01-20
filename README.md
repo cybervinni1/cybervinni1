@@ -1,5 +1,8 @@
 <h1>Hi, I'm Vineesha! <br/><a href="https://github.com/cybervinni1"> Programmer, Cyber security Analyst, CSM, Business Analyst, P&C Insurance Claims Examiner, ACA</a>
 
+<h2>-Certifications:</h2>
+- [Linux Fundamentals](https://www.edureka.co/certificates/mycertificate/41ee529263293d52f208eca246074a97)
+
 <h2>👨‍💻 Cyber security Projects:</h2>
 
 - <b>(IT projects)</b>
