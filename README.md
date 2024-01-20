@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vineesha! <br/><a href="https://github.com/cybervinni1"> Programme, Cyber security Analyst,ACA, CSM</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Vineesha! <br/><a href="https://github.com/cybervinni1"> Programmer, Cyber security Analyst, CSM, Business Analyst, P&C Insurance Claims Examiner, ACA</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
