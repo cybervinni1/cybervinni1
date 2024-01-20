@@ -5,7 +5,15 @@
 
 - <b>[Linux Fundamentals]</b> (https://www.edureka.co/certificates/mycertificate/41ee529263293d52f208eca246074a97)
 
-- <b>Foundations of Cybersecurity</b> (https://www.coursera.org/account/accomplishments/verify/M9CN4GEZ694T)
+- <b>[Foundations of Cybersecurity]</b> (https://www.coursera.org/account/accomplishments/verify/M9CN4GEZ694T)
+
+- <b>[Certified ScrumMaster®]</b> ([https://www.coursera.org/account/accomplishments/verify/M9CN4GEZ694T](https://www.scrumalliance.org/community/profile/vtharikond))
+
+- <b>[Salesforce Certified Platform Developer I]</b> [(https://www.coursera.org/account/accomplishments/verify/M9CN4GEZ694T](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=e7dCyExz7czLY09Wu9YrGB5q4uJdPPoX9g1dncwW0gYytZFe7KXiBYnrUxNsoF9t))
+
+- <b>[Salesforce Certified Administrator (SCA)]</b> ([https://www.coursera.org/account/accomplishments/verify/M9CN4GEZ694T](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=e7dCyExz7czLY09Wu9YrGB5q4uJdPPoX9g1dncwW0gYytZFe7KXiBYnrUxNsoF9t))
+
+- <b>[Oracle Certified Professional, Java SE 8 Programmer II]</b>  
 
 <h2>👨‍💻 Cyber security Projects:</h2>
 
