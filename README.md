@@ -2,6 +2,7 @@
 
 <h2> -Certifications:</h2>
 - <b>[Linux Fundamentals]</b>(https://www.edureka.co/certificates/mycertificate/41ee529263293d52f208eca246074a97)
+
 - <b>Foundations of Cybersecurity</b>
 
 <h2>👨‍💻 Cyber security Projects:</h2>
