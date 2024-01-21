@@ -24,15 +24,20 @@
 
 - <b>[Women in Cybersecurity ( WiCyS) Student Chapter at the Governors State University]</b>
 
+- <b>[Ethical Hacking Group: Joined a group that focuses on ethical hacking and penetration testing, about vulnerability assessment and mitigation, and practiced safe hacking techniques]</b>
+
+- <b>[Graduate Level Student Teaching Assistant in IT courses]</b>
+
 - <b>[Graduated with high honors, University noted ScholarActivities and societies: Graduated with high honors, noted Scholar]</b>
 
 - <b>[Received top grade in graduating major, paper was singled out by Dean of Governors State University for demonstrated excellence]</b>
 
-Graduate Level Student Teaching Assistant in IT, Finance, and Marketing courses.
+- <b>(JNTUH College of Engineering Hyderabad, Degree: Bachelor's degree, Field of study:Computer Science, Graduate year: 2017)</b>
+- <b>Grade: 4.0 GPA</b>
 
-- <b>(JNTUH College of Engineering Hyderabad, Degree: Bachelor's degree, Field of study:Computer Science, Grade: 3.5 GPA, Graduate year: 2017)</b>
 - <b> Activities and societies:</b>
-- <b>[Women in Cybersecurity ( WiCyS) Student Chapter at the Governors State University]</b>
+- <b>[Cloud Masters Team (with a focus on AWS mastery)]</b>
+- <b>[Cybersecurity Club: Participated in a student-run club that focuses on cybersecurity about latest threats and technologies, participated in hackathons and capture the flag (CTF) challenges-] </b>
 
 <h2>👨‍💻 Cyber security Projects:</h2>
 
@@ -40,12 +45,13 @@ Graduate Level Student Teaching Assistant in IT, Finance, and Marketing courses.
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+    
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube channel and podcast I follow:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [[National CyberWatch](https://www.youtube.com/@n2kcyber/videos))
 
 <h2> 🤳 Connect with me:</h2>
 
