@@ -45,15 +45,6 @@
 - <b>[Cloud Masters Team (with a focus on AWS mastery)]</b>
 - <b>[Cybersecurity Club: Participated in a student-run club that focuses on cybersecurity about latest threats and technologies, participated in hackathons and capture the flag (CTF) challenges-] </b>
 
-<h2>👨‍💻 Cyber security Projects:</h2>
-
-- <b>(IT projects)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-    
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube channel and podcast I follow:</h2>
 
