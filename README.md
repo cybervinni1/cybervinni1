@@ -50,7 +50,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>[Algorithms in Python](https://github.com/cybervinni1/Algorithms-Practice)</b>
+- <b>[Algorithms in Python](https://github.com/cybervinni1/python-coding)</b>
 
 
 <h2>📺 Popular YouTube channel and podcast I follow:</h2>
