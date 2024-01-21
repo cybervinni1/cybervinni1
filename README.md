@@ -3,6 +3,11 @@
 <h3>Thriving professional with a good Academic and Technical background possessing a natural passion to code and develop Innovative Solutions.</h3>
 
 ![DeliciousSpectacularGIF](https://github.com/cybervinni1/cybervinni1/assets/157190824/6e7d6f09-243a-4d06-ae17-e93d54d5730f)
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>[Algorithms in Python](https://github.com/cybervinni1/python-coding)</b>
+
 <h2> Certifications:</h2>
 
 - <b>[Linux Fundamentals]</b> (https://www.edureka.co/certificates/mycertificate/41ee529263293d52f208eca246074a97)
@@ -47,10 +52,6 @@
 - <b> Activities and societies:</b>
 - <b>[Cloud Masters Team (with a focus on AWS mastery)]</b>
 - <b>[Cybersecurity Club: Participated in a student-run club that focuses on cybersecurity about latest threats and technologies, participated in hackathons and capture the flag (CTF) challenges-] </b>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>[Algorithms in Python](https://github.com/cybervinni1/python-coding)</b>
 
 
 <h2>📺 Popular YouTube channel and podcast I follow:</h2>
