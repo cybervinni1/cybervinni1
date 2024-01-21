@@ -50,7 +50,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>[Praciting DS & Algos in Python](https://github.com/cybervinni1/Algorithms-Practice)</b>
+- <b>[Algorithms in Python](https://github.com/cybervinni1/Algorithms-Practice)</b>
 
 
 <h2>📺 Popular YouTube channel and podcast I follow:</h2>
@@ -78,5 +78,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about data analysis, cyber security and cyber attacks
 - 📫 How to reach me: ...contact form mentioned baove
 - 😄 Pronouns: ...vinni
-- ⚡ Fun fact: ...I am a model with 
+
 -->
