@@ -48,6 +48,10 @@
 - <b>[Cloud Masters Team (with a focus on AWS mastery)]</b>
 - <b>[Cybersecurity Club: Participated in a student-run club that focuses on cybersecurity about latest threats and technologies, participated in hackathons and capture the flag (CTF) challenges-] </b>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>[Praciting DS & Algos in Python](https://github.com/cybervinni1/Algorithms-Practice)</b>
+
 
 <h2>📺 Popular YouTube channel and podcast I follow:</h2>
 
