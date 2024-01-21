@@ -13,6 +13,12 @@
 
 - <b>[Salesforce Certified Administrator (SCA)]</b> ([https://www.coursera.org/account/accomplishments/verify/M9CN4GEZ694T](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=e7dCyExz7czLY09Wu9YrGB5q4uJdPPoX9g1dncwW0gYytZFe7KXiBYnrUxNsoF9t))
 
+- <b>[Certificate for ACA- Accredited Claims Adjuster- All Lines] </b>
+
+- <b>[P&C Insurance License, 620-All Lines, Licensed Florida Independent Adjuter]
+
+- <b>[TCR1 Certifiacte from GEICO]</b>
+
 - <b>[Oracle Certified Professional, Java SE 8 Programmer II]</b>  
 
 <h2>👨‍💻Education:</h2>
