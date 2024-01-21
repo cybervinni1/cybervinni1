@@ -15,6 +15,20 @@
 
 - <b>[Oracle Certified Professional, Java SE 8 Programmer II]</b>  
 
+<h2>👨‍💻Education:</h2>
+
+- <b>(Governors State University, Chicago, IL, USA, Degree: Master of Science - MS, Field of study:Computer Science, Grade: 4.0 GPA, Graduate year: 2020)</b>
+- <b> Activities and societies:</b>
+- <b>[Women in Cybersecurity ( WiCyS) Student Chapter at the Governors State University]</b>
+- <b>[Graduated with high honors, University noted ScholarActivities and societies: Graduated with high honors, noted Scholar]</b>
+- <b>[Received top grade in graduating major, paper was singled out by Dean of Governors State University for demonstrated excellence]</b>
+
+Graduate Level Student Teaching Assistant in IT, Finance, and Marketing courses.
+
+- <b>(JNTUH College of Engineering Hyderabad, Degree: Bachelor's degree, Field of study:Computer Science, Grade: 3.5 GPA, Graduate year: 2017)</b>
+- <b> Activities and societies:</b>
+- <b>[Women in Cybersecurity ( WiCyS) Student Chapter at the Governors State University]</b>
+
 <h2>👨‍💻 Cyber security Projects:</h2>
 
 - <b>(IT projects)</b>
