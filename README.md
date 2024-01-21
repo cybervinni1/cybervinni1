@@ -1,5 +1,7 @@
 <h1>Hi, I'm Vineesha! <br/><a href="https://github.com/cybervinni1"> Programmer, Cyber security Analyst, CSM, Business Analyst, P&C Insurance Claims Examiner, ACA</a>
 
+Thriving professional with a good Academic and Technical background possessing a natural curiosity to code and develop Innovative Solutions.
+
 ![DeliciousSpectacularGIF](https://github.com/cybervinni1/cybervinni1/assets/157190824/6e7d6f09-243a-4d06-ae17-e93d54d5730f)
 <h2> Certifications:</h2>
 
