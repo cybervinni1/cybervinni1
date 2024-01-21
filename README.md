@@ -23,7 +23,8 @@
 
 <h2>👨‍💻Education:</h2>
 
-- <b>(Governors State University, Chicago, IL, USA, Degree: Master of Science - MS, Field of study:Computer Science, Graduate year: 2020)</b>
+- <b>(Governors State University, Chicago, IL, USA (https://govst.edu/)</b>
+- <b>Degree: Master of Science - MS, Field of study:Computer Science, Graduate year: 2020)</b>
 - <b>Grade: 4.0 GPA</b>
 
 - <b> Activities and societies:</b>
